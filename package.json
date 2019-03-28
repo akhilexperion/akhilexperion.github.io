@@ -1,0 +1,15 @@
+{
+  "name": "htmlcss",
+  "version": "1.0.0",
+  "description": "sample html",
+  "main": "app",
+  "scripts": {
+    "test": "npm test",
+    "dev": "lite-server"
+  },
+  "author": "akhilgopan",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
